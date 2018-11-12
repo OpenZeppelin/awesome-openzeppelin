@@ -72,11 +72,11 @@ Talk about this topic with [Alejo Salles](https://github.com/fiiiu).
 
 * [Tokens 2.0: Curved Token Bonding in Curation Markets](https://medium.com/@simondlr/tokens-2-0-curved-token-bonding-in-curation-markets-1764a2e0bee5), by Simon de la Rouviere.
 
-** [Can Blockchains Go Rogue?](https://blog.oceanprotocol.com/can-blockchains-go-rogue-5134300ce790)
+  * [Can Blockchains Go Rogue?](https://blog.oceanprotocol.com/can-blockchains-go-rogue-5134300ce790)
 
-** [Towards a Practice of Token Engineering](https://blog.oceanprotocol.com/towards-a-practice-of-token-engineering-b02feeeff7ca)
+  * [Towards a Practice of Token Engineering](https://blog.oceanprotocol.com/towards-a-practice-of-token-engineering-b02feeeff7ca)
 
-** [Token Engineering Case Studies](https://blog.oceanprotocol.com/token-engineering-case-studies-b44267e68f4)
+  * [Token Engineering Case Studies](https://blog.oceanprotocol.com/token-engineering-case-studies-b44267e68f4)
 
 * [On Value, Velocity and Monetary Theory](https://medium.com/blockchannel/on-value-velocity-and-monetary-theory-a-new-approach-to-cryptoasset-valuations-32c9b22e3b6f), by Alex Evans.
 
