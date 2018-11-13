@@ -90,6 +90,12 @@ Talk about this topic with [Alejo Salles](https://github.com/fiiiu).
 
 * [Panvala](https://www.panvala.com/panvala-whitepaper.pdf): Introduces a system of token-mediated auditing. “Token Capacitor” is a cryptoeconomic primitive that progressively releases tokens, which can be directed to different destinations by the token holders; and “Michelin stars” are used for code safety.
 
+## [Cryptography](https://en.wikipedia.org/wiki/Cryptography)
+
+### Courses
+
+* [Cryptography I](https://www.coursera.org/learn/crypto), by Dan Boneh.
+
 ## [Cypherpunk](https://en.wikipedia.org/wiki/Cypherpunk)
 
 ### Talks
