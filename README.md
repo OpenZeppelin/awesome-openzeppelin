@@ -2,6 +2,14 @@
 
 Blockchain educational resources curated by the Zeppelin team
 
+## [Community Management](https://en.wikipedia.org/wiki/Community_Management)
+
+Talk about this topic with [elopio](https://github.com/elopio).
+
+### Books
+
+* [The Art of Community](http://www.artofcommunityonline.org/), by Jono Bacon.
+
 ## [Cryptoeconomics](https://en.wikipedia.org/wiki/Cryptoeconomics)
 
 Talk about this topic with [Alejo Salles](https://github.com/fiiiu).
