@@ -125,7 +125,7 @@ Talk about this topic with [Alejo Salles](https://github.com/fiiiu).
 
 * [On Value, Velocity and Monetary Theory](https://medium.com/blockchannel/on-value-velocity-and-monetary-theory-a-new-approach-to-cryptoasset-valuations-32c9b22e3b6f), by Alex Evans.
 
-### Posts
+### Talks
 
 * [Introduction to Cryptoeconomics](https://www.youtube.com/watch?v=pKqdjaH1dRo), by Vitalik Buterin.
 
