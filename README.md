@@ -29,6 +29,10 @@
 
 * [Mastering Bitcoin](https://github.com/bitcoinbook/bitcoinbook), by Andreas Antonopoulos.
 
+### Courses
+
+* [Introduction to Digital Currencies](https://digitalcurrency.unic.ac.cy/free-introductory-mooc/), by Andreas Antonopoulos and Antonis Polemitis.
+
 ## [Community Management](https://en.wikipedia.org/wiki/Community_Management)
 
 Talk about this topic with [elopio](https://github.com/elopio).
@@ -158,10 +162,6 @@ Talk about this topic with [Alejo Salles](https://github.com/fiiiu).
 ### Books
 
 * [Mastering Ethereum](https://github.com/ethereumbook/ethereumbook), by Andreas Antonopoulos (in progress).
-
-### Courses
-
-* [Introduction to Digital Currencies](https://digitalcurrency.unic.ac.cy/free-introductory-mooc/), by Andreas Antonopoulos and Antonis Polemitis.
 
 ## Design
 
