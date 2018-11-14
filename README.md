@@ -14,7 +14,9 @@
 * [Cypherpunk](#cypherpunk)
 * [Design](#design)
 * [Ethereum](#ethereum)
-* [Programming Languages)(#programming-languages)
+* [Legal](#legal)
+* [Linux](#linux)
+* [Programming Languages](#programming-languages)
   * [Go](#go)
   * [Javascript](#javascript)
   * [Python](#python)
@@ -42,6 +44,12 @@ Talk about this topic with [Alejo Salles](https://github.com/fiiiu).
 ### Books
 
 * [Cryptoassets](https://www.bitcoinandbeyond.com/), by Chris Burniske and Jack Tatar: Good, basic book with a broad view of the crypto world addressed to investors new to the space.
+
+### Courses
+
+* [Game Theory I](https://www.coursera.org/learn/game-theory-1), by Matthew O. Jackson, Kevin Leyton-Brown and Yoav Shoham.
+
+* [Game Theory II](https://www.coursera.org/learn/game-theory-2), by Matthew O. Jackson, Kevin Leyton-Brown and Yoav Shoham.
 
 ### Posts
 
@@ -160,6 +168,24 @@ Talk about this topic with [Alejo Salles](https://github.com/fiiiu).
 ### Books
 
 * [The Design of Everyday Things](https://en.wikipedia.org/wiki/The_Design_of_Everyday_Things), by Donald Norman.
+
+### Courses
+
+* [Interaction Design Specialization](https://www.coursera.org/specializations/interaction-design), by Scott Klemmer, Elizabeth Gerber and Jacob O. Wobbrock.
+
+## Legal
+
+### Courses
+
+* Intellectual Property Law and Policy, by R. Polk Wagner:
+  ** [Part 1](https://www.edx.org/course/intellectual-property-law-policy-part-1-pennx-iplaw1x-0)
+  ** [Part 2](https://www.edx.org/course/intellectual-property-law-policy-part-2-pennx-iplaw2x-0)
+
+## Linux
+
+### Courses
+
+* [Introduction to Linux](https://www.edx.org/course/introduction-to-linux), by The Linux Foundation.
 
 ## Programming Languages
 
