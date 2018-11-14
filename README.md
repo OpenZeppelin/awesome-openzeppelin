@@ -178,7 +178,9 @@ Talk about this topic with [Alejo Salles](https://github.com/fiiiu).
 ### Courses
 
 * Intellectual Property Law and Policy, by R. Polk Wagner:
+
   ** [Part 1](https://www.edx.org/course/intellectual-property-law-policy-part-1-pennx-iplaw1x-0)
+
   ** [Part 2](https://www.edx.org/course/intellectual-property-law-policy-part-2-pennx-iplaw2x-0)
 
 ## Linux
