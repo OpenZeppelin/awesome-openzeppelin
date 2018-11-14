@@ -13,6 +13,7 @@
 * [Cryptography](#cryptography)
 * [Cypherpunk](#cypherpunk)
 * [Design](#design)
+* [Diversity](#diversity)
 * [Ethereum](#ethereum)
 * [Legal](#legal)
 * [Linux](#linux)
@@ -155,6 +156,8 @@ Talk about this topic with [Alejo Salles](https://github.com/fiiiu).
 
 ### Talks
 
+* [The Art of Asking](https://www.youtube.com/watch?v=xMj_P_6H69g), by Amanda Palmer.
+
 * [Decentralize, Democratize, or Die](https://youtu.be/JE4yoU6ssi8), by Corey Doctorow.
 
 ## [Ethereum](https://en.wikipedia.org/wiki/Ethereum)
@@ -165,11 +168,29 @@ Talk about this topic with [Alejo Salles](https://github.com/fiiiu).
 
 * [Mastering Ethereum](https://github.com/ethereumbook/ethereumbook), by Andreas Antonopoulos (in progress).
 
+### Posts
+
+* [A Prehistory of the Ethereum Protocol](https://vitalik.ca/general/2017/09/14/prehistory.html), by Vitalik Buterin.
+
 ## Design
 
 ### Books
 
 * [The Design of Everyday Things](https://en.wikipedia.org/wiki/The_Design_of_Everyday_Things), by Donald Norman.
+
+## Diversity
+
+### Posts
+
+* [How Duolingo achieved a 50:50 gender ratio for new software engineer hires](http://making.duolingo.com/how-duolingo-achieved-a-5050-gender-ratio-for-new-software-engineer-hires), by Jeesoo Sohn.
+
+* [How I work with someone who is learning](https://blog.mapbox.com/how-i-work-with-someone-who-is-learning-d6c53e460625), by Emily McAfee.
+
+* [How to answer questions in a helpful way](https://jvns.ca/blog/answer-questions-well/), by Julia Evans.
+
+* [How to ask good questions](https://jvns.ca/blog/good-questions/), by Julia Evans.
+
+* [Not Applicable: What Your Job Post is Really Saying](https://where.coraline.codes/blog/not_applicable/), by Coraline Ada Ehmke.
 
 ### Courses
 
