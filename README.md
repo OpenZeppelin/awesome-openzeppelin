@@ -51,9 +51,11 @@ Talk about this topic with [Alejo Salles](https://github.com/fiiiu).
 
 ### Courses
 
-* [Game Theory I](https://www.coursera.org/learn/game-theory-1), by Matthew O. Jackson, Kevin Leyton-Brown and Yoav Shoham.
+* Game Theory, by Matthew O. Jackson, Kevin Leyton-Brown and Yoav Shoham:
 
-* [Game Theory II](https://www.coursera.org/learn/game-theory-2), by Matthew O. Jackson, Kevin Leyton-Brown and Yoav Shoham.
+  * [Part I](https://www.coursera.org/learn/game-theory-1).
+
+  * [Part II](https://www.coursera.org/learn/game-theory-2).
 
 ### Posts
 
