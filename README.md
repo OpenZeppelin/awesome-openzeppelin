@@ -60,6 +60,8 @@ Talk about this topic with [Alejo Salles](https://github.com/fiiiu).
 
   * [Part II](https://www.coursera.org/learn/game-theory-2).
 
+* [Cryptoeconomics.study](https://cryptoeconomics.study/), by Karl Floersch & community efforts
+
 ### Posts
 
 * [Against community governance](https://medium.com/@decanus/against-community-governance-326dc82b27d3), by Dean Eigenmann.
@@ -146,6 +148,10 @@ Talk about this topic with [Alejo Salles](https://github.com/fiiiu).
 
 * [Cryptography I](https://www.coursera.org/learn/crypto), by Dan Boneh.
 
+### Challenges
+
+* [Cryptopals](https://cryptopals.com/): learn crypto by doing challenges, where you build and break popular ciphers.
+
 ## [Cypherpunk](https://en.wikipedia.org/wiki/Cypherpunk)
 
 ### Books
@@ -175,6 +181,9 @@ Talk about this topic with [Alejo Salles](https://github.com/fiiiu).
 * [A Prehistory of the Ethereum Protocol](https://vitalik.ca/general/2017/09/14/prehistory.html), by Vitalik Buterin.
 
 * [Why another stablecoin?](https://medium.com/reserve-currency/why-another-stablecoin-866f774afede), Nevin Freeman.
+
+
+* [Ethereum in Depth series](https://blog.zeppelin.solutions/ethereum-in-depth-part-1-968981e6f833), by Zeppelin.
 
 ## Design
 
@@ -248,9 +257,27 @@ Talk about this topic with [Alejo Salles](https://github.com/fiiiu).
 
 * [CryptoZombies](https://cryptozombies.io/), by Loom Network.
 
+* [Solidity Koans](https://soliditykoans.org/), by Nicole Zhu.
+
+* [Deconstructing a Solidity contract series](https://blog.zeppelin.solutions/deconstructing-a-solidity-contract-part-i-introduction-832efd2d7737), by Zeppelin.
+
+#### Challenges / CTF
+
 * [Ethernaut](https://ethernaut.zeppelin.solutions/), by Zeppelin.
 
-* [Solidity Koans](https://soliditykoans.org/), by Nicole Zhu.
+* [Blockchain CTF](https://blockchain-ctf.securityinnovation.com), by Security Innovation.
+
+* [GOAT Casino](https://github.com/nccgroup/GOATCasino), by NCC Group.
+
+#### Smart contract security
+
+* [Smart Contract Security bibliography](https://consensys.github.io/smart-contract-best-practices/bibliography/), by Consensys.
+
+* [List of known attack vectors and common anti-patterns in smart contracts](https://github.com/sigp/solidity-security-blog), by AgeManning.
+
+* [DEF CON 25 - Hacking Smart Contracts talk](https://www.youtube.com/watch?v=WIEessi3ntk), by Konstantinos Karagiannis.
+
+* [Zeppelin audits reports](https://blog.zeppelin.solutions/tagged/security), by Zeppelin.
 
 ## Remote
 
