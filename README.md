@@ -22,6 +22,8 @@
   * [Javascript](#javascript)
   * [Python](#python)
   * [Solidity](#solidity)
+* [Remote](#remote)
+* [Security](#security)
 * [Software Development](#software-development)
 
 ## [Bitcoin](https://en.wikipedia.org/wiki/Bitcoin)
@@ -172,6 +174,8 @@ Talk about this topic with [Alejo Salles](https://github.com/fiiiu).
 
 * [A Prehistory of the Ethereum Protocol](https://vitalik.ca/general/2017/09/14/prehistory.html), by Vitalik Buterin.
 
+* [Why another stablecoin?](https://medium.com/reserve-currency/why-another-stablecoin-866f774afede), Nevin Freeman.
+
 ## Design
 
 ### Books
@@ -244,6 +248,18 @@ Talk about this topic with [Alejo Salles](https://github.com/fiiiu).
 
 * [Solidity Koans](https://soliditykoans.org/), by Nicole Zhu.
 
+## Remote
+
+### Posts
+
+* [The presence prison](https://m.signalvnoise.com/the-presence-prison-4c776292c8d2), by Jason Fried.
+
+## Security
+
+### Posts
+
+* [Why Openness Is The Greatest Path To Security](https://www.forbes.com/sites/martenmickos/2018/09/26/why-openness-is-the-greatest-path-to-security/#aadef305f7f5), by  Marten Mickos.
+
 ## Software Development
 
 Talk about this topic with [elopio](https://github.com/elopio).
@@ -267,6 +283,10 @@ Talk about this topic with [elopio](https://github.com/elopio).
 * [Working Effectively with Legacy Code](https://www.oreilly.com/library/view/working-effectively-with/0131177052/), by Michael Feathers.
 
 * [xUnit Test Patterns](https://martinfowler.com/books/meszaros.html), by Gerard Meszaros.
+
+### Posts
+
+* [Methodologies for measuring project health](https://nadiaeghbal.com/project-health), by Nadia Eghbal.
 
 ## Maintainers
 
