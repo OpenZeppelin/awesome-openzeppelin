@@ -188,6 +188,10 @@ Talk about this topic with [Alejo Salles](https://github.com/fiiiu).
 
 ## Diversity
 
+### Courses
+
+* [Inclusive Speaker Orientation](https://training.linuxfoundation.org/training/inclusive-speaker-orientation/), by The Linux Foundation and the National Center for Women & Information Technology.
+
 ### Posts
 
 * [How Duolingo achieved a 50:50 gender ratio for new software engineer hires](http://making.duolingo.com/how-duolingo-achieved-a-5050-gender-ratio-for-new-software-engineer-hires), by Jeesoo Sohn.
