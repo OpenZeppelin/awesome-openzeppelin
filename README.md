@@ -2,6 +2,12 @@
 
 Blockchain educational resources curated by the Zeppelin team
 
+## [Bitcoin](https://en.wikipedia.org/wiki/Bitcoin)
+
+### Books
+
+* [Mastering Bitcoin](https://github.com/bitcoinbook/bitcoinbook), by Andreas Antonopoulos.
+
 ## [Community Management](https://en.wikipedia.org/wiki/Community_Management)
 
 Talk about this topic with [elopio](https://github.com/elopio).
