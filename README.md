@@ -295,6 +295,7 @@ Talk about this topic with [elopio](https://github.com/elopio).
 ## Maintainers
 
 * [elopio](https://github.com/elopio)
+* [tinchoabbate](https://github.com/tinchoabbate)
 
 ## Contributing
 
