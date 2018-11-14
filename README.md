@@ -110,6 +110,16 @@ Talk about this topic with [Alejo Salles](https://github.com/fiiiu).
 
 * [Decentralize, Democratize, or Die](https://youtu.be/JE4yoU6ssi8), by Corey Doctorow.
 
+## [Ethereum](https://en.wikipedia.org/wiki/Ethereum)
+
+### Books
+
+* [Mastering Ethereum](https://github.com/ethereumbook/ethereumbook), by Andreas Antonopoulos (in progress).
+
+### Courses
+
+* [Introduction to Digital Currencies](https://digitalcurrency.unic.ac.cy/free-introductory-mooc/), by Andreas Antonopoulos and Antonis Polemitis.
+
 ## License
 
 [![CC0](http://mirrors.creativecommons.org/presskit/buttons/88x31/svg/cc-zero.svg)](https://creativecommons.org/publicdomain/zero/1.0/)
