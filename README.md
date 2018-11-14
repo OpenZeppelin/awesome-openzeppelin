@@ -12,7 +12,14 @@
 * [Cryptoeconomics](#cryptoeconomics)
 * [Cryptography](#cryptography)
 * [Cypherpunk](#cypherpunk)
+* [Design](#design)
 * [Ethereum](#ethereum)
+* [Programming Languages)(#programming-languages)
+  * [Go](#go)
+  * [Javascript](#javascript)
+  * [Python](#python)
+  * [Solidity](#solidity)
+* [Software Development](#software-development)
 
 ## [Bitcoin](https://en.wikipedia.org/wiki/Bitcoin)
 
@@ -128,7 +135,17 @@ Talk about this topic with [Alejo Salles](https://github.com/fiiiu).
 
 * [Decentralize, Democratize, or Die](https://youtu.be/JE4yoU6ssi8), by Corey Doctorow.
 
+### Books
+
+* [Free Culture](http://www.free-culture.cc/), by Lawrence Lessig.
+
+* [Free Software, Free Society](https://www.gnu.org/philosophy/fsfs/rms-essays.pdf), by Richard Stallman.
+
+* [Proposed Roads to Freedom](http://www.gutenberg.org/ebooks/690), by Bertrand Russell.
+
 ## [Ethereum](https://en.wikipedia.org/wiki/Ethereum)
+
+(see also [Solidity](#solidity)).
 
 ### Books
 
@@ -137,6 +154,68 @@ Talk about this topic with [Alejo Salles](https://github.com/fiiiu).
 ### Courses
 
 * [Introduction to Digital Currencies](https://digitalcurrency.unic.ac.cy/free-introductory-mooc/), by Andreas Antonopoulos and Antonis Polemitis.
+
+## Design
+
+### Books
+
+* [The Design of Everyday Things](https://en.wikipedia.org/wiki/The_Design_of_Everyday_Things), by Donald Norman.
+
+## Programming Languages
+
+### Go
+
+#### Books
+
+* [The Go Programming Language](https://www.oreilly.com/library/view/the-go-programming/9780134190570/), by Brian W. Kernighan and Alan A. A. Donovan.
+
+### Javascript
+
+#### Books
+
+* [JavaScript: The Good Parts](http://shop.oreilly.com/product/9780596517748.do), by Douglas Crockford.
+
+### Python
+
+#### Books
+
+* [Dive into Python 3](https://www.apress.com/gp/book/9781430224150), by Mark Pilgrim.
+
+* [Effective Python: 59 Specific Ways to Write Better Python](https://www.oreilly.com/library/view/effective-python-59/9780134034416/), by Brett Slatkin.
+
+### Solidity
+
+#### Websites
+
+* [CryptoZombies](https://cryptozombies.io/), by Loom Network.
+
+* [Ethernaut](https://ethernaut.zeppelin.solutions/), by Zeppelin.
+
+* [Solidity Koans](https://soliditykoans.org/), by Nicole Zhu.
+
+## Software Development
+
+Talk about this topic with [elopio](https://github.com/elopio).
+
+### Books
+
+* [Agile Estimating and Planning](https://www.mountaingoatsoftware.com/books/agile-estimating-and-planning), by Mike Cohn.
+
+* [Agile Testing](https://www.oreilly.com/library/view/agile-testing-a/9780321616944/), by Janet Gregory and Lisa Crispin.
+
+* [Clean Code](https://www.oreilly.com/library/view/clean-code/9780136083238/), by Robert C. Martin.
+
+* [Refactoring: Improving the Design of Existing Code](https://martinfowler.com/books/refactoring.html), by Martin Fowler.
+
+* [Succeeding with Agile: Software Development Using Scrum](https://www.mountaingoatsoftware.com/books/succeeding-with-agile-software-development-using-scrum), by Mike Cohn.
+
+* [Test Driven Development: By Example](https://www.oreilly.com/library/view/test-driven-development/0321146530/), by Kent Beck.
+
+* [User Stories Applied](https://www.mountaingoatsoftware.com/books/user-stories-applied), by Mike Cohn.
+
+* [Working Effectively with Legacy Code](https://www.oreilly.com/library/view/working-effectively-with/0131177052/), by Michael Feathers.
+
+* [xUnit Test Patterns](https://martinfowler.com/books/meszaros.html), by Gerard Meszaros.
 
 ## Maintainers
 
