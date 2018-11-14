@@ -143,10 +143,6 @@ Talk about this topic with [Alejo Salles](https://github.com/fiiiu).
 
 ## [Cypherpunk](https://en.wikipedia.org/wiki/Cypherpunk)
 
-### Talks
-
-* [Decentralize, Democratize, or Die](https://youtu.be/JE4yoU6ssi8), by Corey Doctorow.
-
 ### Books
 
 * [Free Culture](http://www.free-culture.cc/), by Lawrence Lessig.
@@ -154,6 +150,10 @@ Talk about this topic with [Alejo Salles](https://github.com/fiiiu).
 * [Free Software, Free Society](https://www.gnu.org/philosophy/fsfs/rms-essays.pdf), by Richard Stallman.
 
 * [Proposed Roads to Freedom](http://www.gutenberg.org/ebooks/690), by Bertrand Russell.
+
+### Talks
+
+* [Decentralize, Democratize, or Die](https://youtu.be/JE4yoU6ssi8), by Corey Doctorow.
 
 ## [Ethereum](https://en.wikipedia.org/wiki/Ethereum)
 
