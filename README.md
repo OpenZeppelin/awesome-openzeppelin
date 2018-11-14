@@ -1,6 +1,20 @@
 # awesome-zeppelin
 
-Blockchain educational resources curated by the Zeppelin team
+[![Awesome](https://awesome.re/badge.svg)](https://awesome.re)
+[![standard-readme compliant](https://img.shields.io/badge/readme%20style-standard-brightgreen.svg)](https://github.com/RichardLitt/standard-readme)
+
+> Blockchain educational resources curated by the Zeppelin team.
+
+## Table of Contents
+
+## Table of Contents
+
+* [Bitcoin](#bitcoin)
+* [Community Management](#community-management)
+* [Cryptoeconomics](#cryptoeconomics)
+* [Cryptography](#cryptography)
+* [Cypherpunk](#cypherpunk)
+* [Ethereum](#ethereum)
 
 ## [Bitcoin](https://en.wikipedia.org/wiki/Bitcoin)
 
@@ -125,6 +139,14 @@ Talk about this topic with [Alejo Salles](https://github.com/fiiiu).
 ### Courses
 
 * [Introduction to Digital Currencies](https://digitalcurrency.unic.ac.cy/free-introductory-mooc/), by Andreas Antonopoulos and Antonis Polemitis.
+
+## Maintainers
+
+* [elopio](https://github.com/elopio)
+
+## Contributing
+
+[Share your awesome links with us!](https://github.com/ZeppelinSolutions/awesome-zeppelin/issues/new)
 
 ## License
 
