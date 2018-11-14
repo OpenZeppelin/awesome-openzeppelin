@@ -182,6 +182,10 @@ Talk about this topic with [Alejo Salles](https://github.com/fiiiu).
 
 * [The Design of Everyday Things](https://en.wikipedia.org/wiki/The_Design_of_Everyday_Things), by Donald Norman.
 
+### Courses
+
+* [Interaction Design Specialization](https://www.coursera.org/specializations/interaction-design), by Scott Klemmer, Elizabeth Gerber and Jacob O. Wobbrock.
+
 ## Diversity
 
 ### Posts
@@ -195,10 +199,6 @@ Talk about this topic with [Alejo Salles](https://github.com/fiiiu).
 * [How to ask good questions](https://jvns.ca/blog/good-questions/), by Julia Evans.
 
 * [Not Applicable: What Your Job Post is Really Saying](https://where.coraline.codes/blog/not_applicable/), by Coraline Ada Ehmke.
-
-### Courses
-
-* [Interaction Design Specialization](https://www.coursera.org/specializations/interaction-design), by Scott Klemmer, Elizabeth Gerber and Jacob O. Wobbrock.
 
 ## Legal
 
