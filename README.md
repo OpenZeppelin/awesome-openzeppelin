@@ -7,8 +7,6 @@
 
 ## Table of Contents
 
-## Table of Contents
-
 * [Bitcoin](#bitcoin)
 * [Community Management](#community-management)
 * [Cryptoeconomics](#cryptoeconomics)
