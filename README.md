@@ -289,6 +289,8 @@ Talk about this topic with [Alejo Salles](https://github.com/fiiiu).
 
 ### Posts
 
+* [Trusted Third Parties Are Security Holes](https://nakamotoinstitute.org/trusted-third-parties/), by Nick Szabo.
+
 * [Why Openness Is The Greatest Path To Security](https://www.forbes.com/sites/martenmickos/2018/09/26/why-openness-is-the-greatest-path-to-security/#aadef305f7f5), by  Marten Mickos.
 
 ## Software Development
