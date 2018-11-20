@@ -134,7 +134,6 @@ Talk about this topic with [Alejo Salles](https://github.com/fiiiu).
 
 * [Why another stablecoin?](https://medium.com/reserve-currency/why-another-stablecoin-866f774afede), Nevin Freeman.
 
-
 * [Ethereum in Depth series](https://blog.zeppelin.solutions/ethereum-in-depth-part-1-968981e6f833), by Zeppelin.
 
 ## Design
@@ -236,6 +235,8 @@ Talk about this topic with [Alejo Salles](https://github.com/fiiiu).
 ### Posts
 
 * [The presence prison](https://m.signalvnoise.com/the-presence-prison-4c776292c8d2), by Jason Fried.
+
+* [Don't work "remotely"](http://blairreeves.me/2018/11/09/dont-work-remotely/), by Blair Reeves.
 
 ## Security
 
