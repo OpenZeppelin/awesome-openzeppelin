@@ -246,6 +246,10 @@ Talk about this topic with [Alejo Salles](https://github.com/fiiiu).
 
 * [Why Openness Is The Greatest Path To Security](https://www.forbes.com/sites/martenmickos/2018/09/26/why-openness-is-the-greatest-path-to-security/#aadef305f7f5), by  Marten Mickos.
 
+### Talks
+
+* [Reflections on Trusting Trust](https://www.archive.ece.cmu.edu/~ganger/712.fall02/papers/p761-thompson.pdf), by Ken Thompson.
+
 ## Software Development
 
 Talk about this topic with [elopio](https://github.com/elopio).
