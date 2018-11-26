@@ -5,6 +5,13 @@
 
 > Blockchain educational resources curated by the Zeppelin team.
 
+[Zeppelin](https://zeppelin.solutions) builds key infrastructure to develop and operate smart contract systems. We work on:
+* [OpenZeppelin](https://openzeppelin.org/): a package for secure smart contract development. 
+* [ZeppelinOS](https://zeppelinos.org/): a platform to develop, deploy and operate smart contract projects on Ethereum and every other EVM and eWASM-powered blockchain.
+* [Audits](https://zeppelin.solutions/security-audits/): verification of key projects for the decentralized ecosystem.
+
+This repository contains links to resources that have been important parts of our learnings and that influence how we work on our projects. If you want to join the Zeppelin team, [we are hiring!](https://zeppelin.solutions/jobs/).
+
 ## Table of Contents
 
 * [Bitcoin](#bitcoin)
@@ -212,25 +219,27 @@ Talk about this topic with [Alejo Salles](https://github.com/fiiiu).
 
 * [Solidity Koans](https://soliditykoans.org/), by Nicole Zhu.
 
-* [Deconstructing a Solidity contract series](https://blog.zeppelin.solutions/deconstructing-a-solidity-contract-part-i-introduction-832efd2d7737), by Zeppelin.
-
 #### Challenges / CTF
 
-* [Ethernaut](https://ethernaut.zeppelin.solutions/), by Zeppelin.
+* **[Ethernaut](https://ethernaut.zeppelin.solutions/), by Zeppelin**.
 
 * [Blockchain CTF](https://blockchain-ctf.securityinnovation.com), by Security Innovation.
 
 * [GOAT Casino](https://github.com/nccgroup/GOATCasino), by NCC Group.
 
+#### Posts
+
+* **[Deconstructing a Solidity contract series](https://blog.zeppelin.solutions/deconstructing-a-solidity-contract-part-i-introduction-832efd2d7737), by Alejandro Santander from the Zeppelin team**.
+
 #### Smart contract security
+
+* **[Zeppelin audits reports](https://blog.zeppelin.solutions/tagged/security), by Zeppelin**.
 
 * [Smart Contract Security bibliography](https://consensys.github.io/smart-contract-best-practices/bibliography/), by Consensys.
 
 * [List of known attack vectors and common anti-patterns in smart contracts](https://github.com/sigp/solidity-security-blog), by AgeManning.
 
 * [DEF CON 25 - Hacking Smart Contracts talk](https://www.youtube.com/watch?v=WIEessi3ntk), by Konstantinos Karagiannis.
-
-* [Zeppelin audits reports](https://blog.zeppelin.solutions/tagged/security), by Zeppelin.
 
 ## Remote
 
@@ -294,4 +303,3 @@ Talk about this topic with [elopio](https://github.com/elopio).
 [![CC0](http://mirrors.creativecommons.org/presskit/buttons/88x31/svg/cc-zero.svg)](https://creativecommons.org/publicdomain/zero/1.0/)
 
 To the extent possible under law, [Zeppelin](https://zeppelin.solutions) has waived all copyright and related or neighboring rights to this work.
-
