@@ -120,24 +120,6 @@ Talk about this topic with [Alejo Salles](https://github.com/fiiiu).
 
 * [Decentralize, Democratize, or Die](https://youtu.be/JE4yoU6ssi8), by Corey Doctorow.
 
-## [Ethereum](https://en.wikipedia.org/wiki/Ethereum)
-
-(see also [Solidity](#solidity)).
-
-### Books
-
-* [Mastering Ethereum](https://github.com/ethereumbook/ethereumbook), by Andreas Antonopoulos (in progress).
-
-### Posts
-
-* [A Prehistory of the Ethereum Protocol](https://vitalik.ca/general/2017/09/14/prehistory.html), by Vitalik Buterin.
-
-* [Ethereum in Depth series](https://blog.zeppelin.solutions/ethereum-in-depth-part-1-968981e6f833), by Zeppelin.
-
-* [Stablecoins: designing a price-stable cryptocurrency](https://hackernoon.com/stablecoins-designing-a-price-stable-cryptocurrency-6bf24e2689e5), by Haseeb Qureshi.
-
-* [Why another stablecoin?](https://medium.com/reserve-currency/why-another-stablecoin-866f774afede), Nevin Freeman.
-
 ## Design
 
 ### Books
@@ -165,6 +147,26 @@ Talk about this topic with [Alejo Salles](https://github.com/fiiiu).
 * [How to ask good questions](https://jvns.ca/blog/good-questions/), by Julia Evans.
 
 * [Not Applicable: What Your Job Post is Really Saying](https://where.coraline.codes/blog/not_applicable/), by Coraline Ada Ehmke.
+
+## [Ethereum](https://en.wikipedia.org/wiki/Ethereum)
+
+(see also [Solidity](#solidity)).
+
+### Books
+
+* [Mastering Ethereum](https://github.com/ethereumbook/ethereumbook), by Andreas Antonopoulos (in progress).
+
+### Posts
+
+* [A Prehistory of the Ethereum Protocol](https://vitalik.ca/general/2017/09/14/prehistory.html), by Vitalik Buterin.
+
+* [Ethereum in Depth series](https://blog.zeppelin.solutions/ethereum-in-depth-part-1-968981e6f833), by Zeppelin.
+
+* [Making Sense of Ethereum’s Layer 2 Scaling Solutions: State Channels, Plasma, and Truebit](https://medium.com/l4-media/making-sense-of-ethereums-layer-2-scaling-solutions-state-channels-plasma-and-truebit-22cb40dcc2f4), by Josh Stark.
+
+* [Stablecoins: designing a price-stable cryptocurrency](https://hackernoon.com/stablecoins-designing-a-price-stable-cryptocurrency-6bf24e2689e5), by Haseeb Qureshi.
+
+* [Why another stablecoin?](https://medium.com/reserve-currency/why-another-stablecoin-866f774afede), Nevin Freeman.
 
 ## Legal
 
