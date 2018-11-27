@@ -95,6 +95,8 @@ Talk about this topic with [Alejo Salles](https://github.com/fiiiu).
 
 * [Introduction to Cryptoeconomics](https://www.youtube.com/watch?v=pKqdjaH1dRo), by Vitalik Buterin.
 
+* [The Pretence of Knowledge](https://www.nobelprize.org/prizes/economic-sciences/1974/hayek/lecture/), by Friedrich von Hayek.
+
 ### Whitepapers
 
 * [Livepeer Whitepaper](https://github.com/livepeer/wiki/blob/master/WHITEPAPER.md), by Doug Petkanics and Eric Tang: Details the cryptoeconomics of the Livepeer protocol, users pay, either for broadcasting or consuming. Transcoders are chosen through DPoS.
