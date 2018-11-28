@@ -24,6 +24,7 @@ This repository contains links to resources that have been important parts of ou
 * [Ethereum](#ethereum)
 * [Legal](#legal)
 * [Linux](#linux)
+* [Organizations](#organizations)
 * [Programming Languages](#programming-languages)
   * [Go](#go)
   * [Javascript](#javascript)
@@ -192,6 +193,20 @@ Talk about this topic with [Alejo Salles](https://github.com/fiiiu).
 ### Courses
 
 * [Introduction to Linux](https://www.edx.org/course/introduction-to-linux), by The Linux Foundation.
+
+## Organizations
+
+Talk about this topic with [Demi](https://twitter.com/demibrener).
+
+### Books
+
+* [The Sovereign Individual](https://www.goodreads.com/book/show/82256.The_Sovereign_Individual), by  James Dale Davidson and William Rees-Mogg.
+
+### Talks
+
+* [The Network State](https://www.youtube.com/watch?v=KiLUPvUsdXg), by Balaji Srinivasan.
+
+* [Voice vs. Exit](https://www.youtube.com/watch?v=cOubCHLXT6A), by Balaji Srinivasan.
 
 ## Programming Languages
 
