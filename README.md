@@ -30,6 +30,7 @@ This repository contains links to resources that have been important parts of ou
   * [Javascript](#javascript)
   * [Python](#python)
   * [Solidity](#solidity)
+  * [Typescript](#typescript)
 * [Remote](#remote)
 * [Security](#security)
 * [Software Development](#software-development)
@@ -259,6 +260,12 @@ Talk about this topic with [Demi](https://twitter.com/demibrener).
 * [List of known attack vectors and common anti-patterns in smart contracts](https://github.com/sigp/solidity-security-blog), by AgeManning.
 
 * [DEF CON 25 - Hacking Smart Contracts talk](https://www.youtube.com/watch?v=WIEessi3ntk), by Konstantinos Karagiannis.
+
+### Typescript
+
+#### Courses
+
+* [Understanding TypeScript](https://www.udemy.com/understanding-typescript/), by Maximilian Schwarzmüller.
 
 ## Remote
 
