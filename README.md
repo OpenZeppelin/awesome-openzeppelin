@@ -259,6 +259,8 @@ Talk about this topic with [Demi](https://twitter.com/demibrener).
 
 * [List of known attack vectors and common anti-patterns in smart contracts](https://github.com/sigp/solidity-security-blog), by AgeManning.
 
+* [List of Risks and Vulnerabilities in ERC20 Token contracts](https://github.com/sec-bit/awesome-buggy-erc20-tokens/blob/master/ERC20_token_issue_list.md)
+
 * [DEF CON 25 - Hacking Smart Contracts talk](https://www.youtube.com/watch?v=WIEessi3ntk), by Konstantinos Karagiannis.
 
 ### Typescript
