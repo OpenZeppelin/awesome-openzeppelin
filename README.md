@@ -77,6 +77,8 @@ Talk about this topic with [Alejo Salles](https://github.com/fiiiu).
 
 * [Governance in 0x Protocol](https://blog.0xproject.com/governance-in-0x-protocol-86779ae5809e), by Will Warren.
 
+* [Leverage Points: Places to Intervene in a System](http://donellameadows.org/archives/leverage-points-places-to-intervene-in-a-system/), by Donella Meadows.
+
 * [On Medium-of-Exchange Token Valuations](https://vitalik.ca/general/2017/10/17/moe.html), by Vitalik Buterin.
 
 * [On Value, Velocity and Monetary Theory](https://medium.com/blockchannel/on-value-velocity-and-monetary-theory-a-new-approach-to-cryptoasset-valuations-32c9b22e3b6f), by Alex Evans.
