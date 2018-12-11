@@ -257,9 +257,11 @@ Talk about this topic with [Demi](https://twitter.com/demibrener).
 
 * [Smart Contract Security bibliography](https://consensys.github.io/smart-contract-best-practices/bibliography/), by Consensys.
 
+* [Smart Contract Weakness Classification Registry](https://smartcontractsecurity.github.io/SWC-registry/), maintained by the [Mythril](https://mythril.ai/) team.
+
 * [List of known attack vectors and common anti-patterns in smart contracts](https://github.com/sigp/solidity-security-blog), by AgeManning.
 
-* [List of Risks and Vulnerabilities in ERC20 Token contracts](https://github.com/sec-bit/awesome-buggy-erc20-tokens/blob/master/ERC20_token_issue_list.md)
+* [List of Risks and Vulnerabilities in ERC20 Token contracts](https://github.com/sec-bit/awesome-buggy-erc20-tokens/blob/master/ERC20_token_issue_list.md), by Secbit
 
 * [DEF CON 25 - Hacking Smart Contracts talk](https://www.youtube.com/watch?v=WIEessi3ntk), by Konstantinos Karagiannis.
 
