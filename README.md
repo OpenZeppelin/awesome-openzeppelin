@@ -141,6 +141,8 @@ Talk about this topic with [Alejo Salles](https://github.com/fiiiu).
 
 * [The Design of Everyday Things](https://en.wikipedia.org/wiki/The_Design_of_Everyday_Things), by Donald Norman.
 
+* [Less is Enough: On Architecture and Asceticism](https://www.goodreads.com/book/show/21167757-less-is-enough), by Pier Vittorio Aureli.
+
 ### Courses
 
 * [Interaction Design Specialization](https://www.coursera.org/specializations/interaction-design), by Scott Klemmer, Elizabeth Gerber and Jacob O. Wobbrock.
