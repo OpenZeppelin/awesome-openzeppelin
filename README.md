@@ -61,6 +61,8 @@ Talk about this topic with [Alejo Salles](https://github.com/fiiiu).
 
 * [Cryptoassets](https://www.bitcoinandbeyond.com/), by Chris Burniske and Jack Tatar: Good, basic book with a broad view of the crypto world addressed to investors new to the space.
 
+* [Governing the Commons: The Evolution of Institutions for Collective Action](https://www.goodreads.com/book/show/1048424.Governing_the_Commons), by Elinor Ostrom.
+
 ### Courses
 
 * Game Theory, by Matthew O. Jackson, Kevin Leyton-Brown and Yoav Shoham:
