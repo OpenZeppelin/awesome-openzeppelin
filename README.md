@@ -185,6 +185,10 @@ Talk about this topic with [Alejo Salles](https://github.com/fiiiu).
 
 * [Why another stablecoin?](https://medium.com/reserve-currency/why-another-stablecoin-866f774afede), Nevin Freeman.
 
+## Videos
+
+* [Smart Accounts](https://www.youtube.com/watch?v=-Gc_cQgPCL8), by Philippe Castonguay and Panashe Mahachi.
+
 ## Legal
 
 ### Courses
