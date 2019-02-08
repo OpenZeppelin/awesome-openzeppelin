@@ -303,6 +303,112 @@ Talk about this topic with [Demi](https://twitter.com/demibrener).
 
 * [Reflections on Trusting Trust](https://www.archive.ece.cmu.edu/~ganger/712.fall02/papers/p761-thompson.pdf), by Ken Thompson.
 
+## OPSEC
+Reading list: (only articles I (Manu) read from start to finish and liked)
+
+- https://medium.com/s/story/a-modest-privacy-protection-proposal-5b47631d7f4c
+- https://grugq.github.io/blog/2013/06/13/ignorance-is-strength/
+- https://medium.com/@thegrugq/operational-security-and-the-real-world-3c07e7eeb2e8
+- https://grugq.github.io/blog/2014/02/13/new-yorks-finest-opsec/
+- https://grugq.github.io/blog/2014/02/10/a-fistful-of-surveillance/
+- https://fas.org/irp/nsa/ioss/threat96/part01.htm
+- https://www.popsci.com/burner-phone-number
+- https://b3rn3d.herokuapp.com/blog/2014/01/22/burner-phone-best-practices/
+- https://blog.cyberwar.nl/2015/02/some-remarkably-good-opsec-advice-from-a-1996-book/
+- https://blog.erratasec.com/2017/06/how-intercept-outed-reality-winner.html
+- https://ctc.usma.edu/extremist-forums-provide-digital-opsec-training/
+- https://medium.com/@thegrugq/twitter-activist-security-7c806bae9cb0
+- https://en.wikipedia.org/wiki/Agent_handling
+- https://www.ivpn.net/privacy-guides/online-privacy-through-opsec-and-compartmentalization-part-2
+- https://grugq.github.io/blog/2013/10/09/it-was-dpr/
+- https://en.wikipedia.org/wiki/Operations_security
+- https://blogsofwar.com/hacker-opsec-with-the-grugq/
+- https://gijn.org/digital-security/
+- https://b3rn3d.herokuapp.com/blog/2014/01/08/managing-pseudonyms/
+- https://b3rn3d.herokuapp.com/blog/2014/01/10/ask-him-about-his-threat-model/
+- https://grugq.github.io/
+  - https://grugq.github.io/blog/2013/11/06/required-reading/
+  - https://grugq.github.io/resources/
+- http://www.howtovanish.com/new-to-how-to-vanish-start-here/
+
+Cryptocurrency related:
+
+- https://medium.com/mycrypto/mycryptos-security-guide-for-dummies-and-smart-people-too-ab178299c82e
+
+Spycraft:
+
+- https://b3rn3d.herokuapp.com/blog/2014/03/09/irl-spycraft/
+- http://pursuitmag.com/lindsay-moran-former-cia-agent-talks-spycraft/
+- http://pursuitmag.com/lindsay-moran-former-cia-operative-why-became-spy/
+- https://grugq.github.io/resources/some_elements_of_intelligence_work-dulles.txt
+
+Technical: (only for devs)
+
+- https://grugq.github.io/docs/phrack-59-06.txt
+
+Device hiding: 
+
+- Virtualization with VMware Workstation Player: 
+  - Install https://www.vmware.com/products/workstation-player.html
+  - Licence keys: https://appnee.com/vmware-workstation-pro-universal-license-keys-collection/
+  - Download preferred OS:
+    - Ubuntu image download: https://www.ubuntu.com/download/desktop
+    - Windows image download: https://www.microsoft.com/en-us/software-download/windows8
+  - Create virtual machine and install image you just downloaded. 
+
+Private Browsing:
+
+- Tor: https://www.torproject.org/
+  - Try dark web sites like:
+    - http://scihub22266oqcxt.onion/
+    - https://www.propub3r6espa33w.onion/
+    - http://owmx2uvjkmdgsap2.onion/
+    - http://zqktlwi4fecvo6ri.onion/wiki/index.php/Main_Page
+  - Darknet markets:
+    - http://wallst4qihu6lvsa.onion/signup?ref=276
+    - http://uhivlt5grrqjhad7.onion/?ai=1675
+  - Deep web forums:
+    - http://dreadditevelidot.onion/
+    - http://avengersdutyk3xf.onion
+    - http://thehub7xbw4dc5r2.onion
+
+Intelligence agencies/government info:
+
+- https://www.intelligencecareers.gov/
+- https://www.intelligence.gov/
+- https://www.intelligencecareers.gov/iccareers.html#career2
+- https://www.cia.gov/library/intelligence-literature/
+
+Useful services:
+
+- https://privacy.com/
+- https://hushed.com/
+- https://www.earthclassmail.com/
+
+
+Other disciplines to research:
+
+- Counterintelligence (OPSEC is a subset of CI)
+- INFOSEC,
+- APPSEC, 
+- NETSEC, 
+- COMSEC, and 
+- PHYSEC
+
+Projects to research: 
+
+- Tor,
+- Tails,
+- DuckDuckGo,
+- StartPage,
+- PhotoMe Beta,
+- ExifTool,
+- MetaNull,
+- Jitsi,
+- JustPasteIt,
+- Silent Circle,
+- and several others from the Guardian Project
+
 ## Software Development
 
 Talk about this topic with [elopio](https://github.com/elopio).
