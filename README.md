@@ -304,110 +304,111 @@ Talk about this topic with [Demi](https://twitter.com/demibrener).
 * [Reflections on Trusting Trust](https://www.archive.ece.cmu.edu/~ganger/712.fall02/papers/p761-thompson.pdf), by Ken Thompson.
 
 ## OPSEC
-Reading list: (only articles I (Manu) read from start to finish and liked)
+Talk about this topic with [@maraoz](https://github.com/maraoz)
 
-- https://medium.com/s/story/a-modest-privacy-protection-proposal-5b47631d7f4c
-- https://grugq.github.io/blog/2013/06/13/ignorance-is-strength/
-- https://medium.com/@thegrugq/operational-security-and-the-real-world-3c07e7eeb2e8
-- https://grugq.github.io/blog/2014/02/13/new-yorks-finest-opsec/
-- https://grugq.github.io/blog/2014/02/10/a-fistful-of-surveillance/
-- https://fas.org/irp/nsa/ioss/threat96/part01.htm
-- https://www.popsci.com/burner-phone-number
-- https://b3rn3d.herokuapp.com/blog/2014/01/22/burner-phone-best-practices/
-- https://blog.cyberwar.nl/2015/02/some-remarkably-good-opsec-advice-from-a-1996-book/
-- https://blog.erratasec.com/2017/06/how-intercept-outed-reality-winner.html
-- https://ctc.usma.edu/extremist-forums-provide-digital-opsec-training/
-- https://medium.com/@thegrugq/twitter-activist-security-7c806bae9cb0
-- https://en.wikipedia.org/wiki/Agent_handling
-- https://www.ivpn.net/privacy-guides/online-privacy-through-opsec-and-compartmentalization-part-2
-- https://grugq.github.io/blog/2013/10/09/it-was-dpr/
-- https://en.wikipedia.org/wiki/Operations_security
-- https://blogsofwar.com/hacker-opsec-with-the-grugq/
-- https://gijn.org/digital-security/
-- https://b3rn3d.herokuapp.com/blog/2014/01/08/managing-pseudonyms/
-- https://b3rn3d.herokuapp.com/blog/2014/01/10/ask-him-about-his-threat-model/
-- https://grugq.github.io/
-  - https://grugq.github.io/blog/2013/11/06/required-reading/
-  - https://grugq.github.io/resources/
-- http://www.howtovanish.com/new-to-how-to-vanish-start-here/
+* [Operations Security](https://en.wikipedia.org/wiki/Operations_security), by Wikipedia.
+* [A modest privacy protection proposal](https://medium.com/s/story/a-modest-privacy-protection-proposal-5b47631d7f4c), by Jameson Lopp.
+* [Ignorance is strength](https://grugq.github.io/blog/2013/06/13/ignorance-is-strength/), by [@grugq](https://github.com/grugq).
+* [Operational security and the real world](https://medium.com/@thegrugq/operational-security-and-the-real-world-3c07e7eeb2e8), by [@grugq](https://github.com/grugq).
+* [New York's Finest OPSEC](https://grugq.github.io/blog/2014/02/13/new-yorks-finest-opsec/), by [@grugq](https://github.com/grugq).
+* [A Fistful of Surveillance](https://grugq.github.io/blog/2014/02/10/a-fistful-of-surveillance/), by [@grugq](https://github.com/grugq).
+* [Operations Security Intelligence Threat Handbook, Section 1 - Introduction](https://fas.org/irp/nsa/ioss/threat96/part01.htm), by [The Interagency OPSEC Support Staff](https://fas.org/irp/nsa/ioss/index.html).
+* [Why you should get a burner phone number, even if you aren't a spy](https://www.popsci.com/burner-phone-number), by David Nield.
+* [Burner Phone Best Practices](https://b3rn3d.herokuapp.com/blog/2014/01/22/burner-phone-best-practices/), by [B3RN3D](https://b3rn3d.herokuapp.com/).
+* [Some remarkably good OPSEC advice, for a 1996 non-computer book](https://blog.cyberwar.nl/2015/02/some-remarkably-good-opsec-advice-from-a-1996-book/), by Matthijs R. Koot.
+* [How The Intercept Outed Reality Winner](https://blog.erratasec.com/2017/06/how-intercept-outed-reality-winner.html), by Robert Graham.
+* [Extremist Forums Provide Digital OpSec Training](https://ctc.usma.edu/extremist-forums-provide-digital-opsec-training/), by Aaron Brantly & Muhammad al-`Ubaydi.
+* [Some elements of Intelligence work](https://grugq.github.io/resources/some_elements_of_intelligence_work-dulles.txt), by [@grugq](https://github.com/grugq).
+* [Twitter Activist Security](https://medium.com/@thegrugq/twitter-activist-security-7c806bae9cb0), by [@grugq](https://github.com/grugq).
+* [How to Vanish](http://www.howtovanish.com/new-to-how-to-vanish-start-here/)
+* [Agent Handling](https://en.wikipedia.org/wiki/Agent_handling), from Wikipedia.
+* [Online Privacy Through OPSEC and Compartmentalization: Part 2](https://www.ivpn.net/privacy-guides/online-privacy-through-opsec-and-compartmentalization-part-2)
+* [It Was DPR, in the Tor HS, with the BTC](https://grugq.github.io/blog/2013/10/09/it-was-dpr/), by [@grugq](https://github.com/grugq).
+* [Hacker OPSEC with The Grugq](https://blogsofwar.com/hacker-opsec-with-the-grugq/), by Blogs of War.
+* [Digital Security](https://gijn.org/digital-security/), by the Global Investigative Journalism Network.
+* [Managing pseudonyms better than DPR](https://b3rn3d.herokuapp.com/blog/2014/01/08/managing-pseudonyms/), by [B3RN3D](https://b3rn3d.herokuapp.com/).
+* [Did you ask him about his Threat Model?](https://b3rn3d.herokuapp.com/blog/2014/01/10/ask-him-about-his-threat-model/), by [B3RN3D](https://b3rn3d.herokuapp.com/).
+* [OPSEC Required Reading section](https://grugq.github.io/blog/2013/11/06/required-reading/), by [@grugq](https://github.com/grugq).
+* [More OPSEC Resources](https://grugq.github.io/resources/), by [@grugq](https://github.com/grugq).
 
-Cryptocurrency related:
+### Intelligence agencies/government info
 
-- https://medium.com/mycrypto/mycryptos-security-guide-for-dummies-and-smart-people-too-ab178299c82e
+* [Intelligence Careers](https://www.intelligencecareers.gov/iccareers.html#career2), by the United States Intelligence Community.
+* [Intelligence Community website](https://www.intelligence.gov/)
+* [Intelligence Literature: suggested reading list](https://www.cia.gov/library/intelligence-literature/), by the United State's CIA.
 
-Spycraft:
+### Spycraft
 
-- https://b3rn3d.herokuapp.com/blog/2014/03/09/irl-spycraft/
-- http://pursuitmag.com/lindsay-moran-former-cia-agent-talks-spycraft/
-- http://pursuitmag.com/lindsay-moran-former-cia-operative-why-became-spy/
-- https://grugq.github.io/resources/some_elements_of_intelligence_work-dulles.txt
+* [CIA Operative teaches Spycraft and psychology](https://b3rn3d.herokuapp.com/blog/2014/03/09/irl-spycraft/), by [B3RN3D](https://b3rn3d.herokuapp.com/).
+* [Q&A: Lindsay Moran — A former CIA agent talks Spycraft](http://pursuitmag.com/lindsay-moran-former-cia-agent-talks-spycraft/), by Pursuit Magazine.
+* [Q&A: Lindsay Moran — A former CIA operative reveals why she became a spy](http://pursuitmag.com/lindsay-moran-former-cia-operative-why-became-spy/), by Pursuit Magazine.
 
-Technical: (only for devs)
+### Cryptocurrency related
 
-- https://grugq.github.io/docs/phrack-59-06.txt
+* [MyCrypto’s security guide for dummies and smart people too](https://medium.com/mycrypto/mycryptos-security-guide-for-dummies-and-smart-people-too-ab178299c82e), by Taylor Monahan.
 
-Device hiding: 
+### For developers
 
-- Virtualization with VMware Workstation Player: 
-  - Install https://www.vmware.com/products/workstation-player.html
-  - Licence keys: https://appnee.com/vmware-workstation-pro-universal-license-keys-collection/
-  - Download preferred OS:
-    - Ubuntu image download: https://www.ubuntu.com/download/desktop
-    - Windows image download: https://www.microsoft.com/en-us/software-download/windows8
-  - Create virtual machine and install image you just downloaded. 
+* [Defeating Forensic Analysis on Unix](https://grugq.github.io/docs/phrack-59-06.txt), by [@grugq](https://github.com/grugq).
 
-Private Browsing:
+### Device hiding with virtualization
 
-- Tor: https://www.torproject.org/
-  - Try dark web sites like:
-    - http://scihub22266oqcxt.onion/
-    - https://www.propub3r6espa33w.onion/
-    - http://owmx2uvjkmdgsap2.onion/
-    - http://zqktlwi4fecvo6ri.onion/wiki/index.php/Main_Page
-  - Darknet markets:
-    - http://wallst4qihu6lvsa.onion/signup?ref=276
-    - http://uhivlt5grrqjhad7.onion/?ai=1675
-  - Deep web forums:
-    - http://dreadditevelidot.onion/
-    - http://avengersdutyk3xf.onion
-    - http://thehub7xbw4dc5r2.onion
+* Virtualization with VMware Workstation Player
+  1. Install https://www.vmware.com/products/workstation-player.html
+  2. Get licence keys: https://appnee.com/vmware-workstation-pro-universal-license-keys-collection/
+  3. Download preferred OS: [Ubuntu](https://www.ubuntu.com/download/desktop) or [Windows](https://www.microsoft.com/en-us/software-download/windows8)
+  4. Create virtual machine and install the downloaded image.
 
-Intelligence agencies/government info:
+### Private Browsing
 
-- https://www.intelligencecareers.gov/
-- https://www.intelligence.gov/
-- https://www.intelligencecareers.gov/iccareers.html#career2
-- https://www.cia.gov/library/intelligence-literature/
+* [Tor](https://www.torproject.org/)
+  * With Tor, you can browse dark web sites like:
+    * http://scihub22266oqcxt.onion/
+    * https://www.propub3r6espa33w.onion/
+    * http://owmx2uvjkmdgsap2.onion/
+    * http://zqktlwi4fecvo6ri.onion/wiki/index.php/Main_Page
+  * Darknet markets
+    * http://wallst4qihu6lvsa.onion/signup?ref=276
+    * http://uhivlt5grrqjhad7.onion/?ai=1675
+  * Some deep web forums
+    * http://dreadditevelidot.onion
+    * http://avengersdutyk3xf.onion
+    * http://thehub7xbw4dc5r2.onion
 
-Useful services:
+### Privacy-related useful services
 
-- https://privacy.com/
-- https://hushed.com/
-- https://www.earthclassmail.com/
+* Online payments 
+  * [Privacy](https://privacy.com/)
+* Private communications
+  * [Hushed](https://hushed.com/)
+* Email
+  * [ProtonMail](https://protonmail.com/)
+  * [Thatoneprivacysite's email comparison](https://thatoneprivacysite.net/email-section/)
+* Virtual Private Networks
+  * [Thatoneprivacysite's VPN comparison](https://thatoneprivacysite.net/vpn-section/)
 
+### Other disciplines & projects to research
 
-Other disciplines to research:
-
-- Counterintelligence (OPSEC is a subset of CI)
-- INFOSEC,
-- APPSEC, 
-- NETSEC, 
-- COMSEC, and 
-- PHYSEC
+* Counterintelligence (OPSEC is a subset of CI)
+* INFOSEC
+* APPSEC
+* NETSEC
+* COMSEC
+* PHYSEC
 
 Projects to research: 
 
-- Tor,
-- Tails,
-- DuckDuckGo,
-- StartPage,
-- PhotoMe Beta,
-- ExifTool,
-- MetaNull,
-- Jitsi,
-- JustPasteIt,
-- Silent Circle,
-- and several others from the Guardian Project
+* Tor
+* Tails
+* DuckDuckGo
+* StartPage
+* PhotoMe Beta
+* ExifTool
+* MetaNull
+* Jitsi
+* JustPasteIt
+* Silent Circle
+* and several others from the Guardian Project
 
 ## Software Development
 
