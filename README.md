@@ -317,7 +317,7 @@ Talk about this topic with [@maraoz](https://github.com/maraoz)
 * [Burner Phone Best Practices](https://b3rn3d.herokuapp.com/blog/2014/01/22/burner-phone-best-practices/), by [B3RN3D](https://b3rn3d.herokuapp.com/).
 * [Some remarkably good OPSEC advice, for a 1996 non-computer book](https://blog.cyberwar.nl/2015/02/some-remarkably-good-opsec-advice-from-a-1996-book/), by Matthijs R. Koot.
 * [How The Intercept Outed Reality Winner](https://blog.erratasec.com/2017/06/how-intercept-outed-reality-winner.html), by Robert Graham.
-* [Extremist Forums Provide Digital OpSec Training](https://ctc.usma.edu/extremist-forums-provide-digital-opsec-training/), by Aaron Brantly & Muhammad al-`Ubaydi.
+* [Extremist Forums Provide Digital OpSec Training](https://ctc.usma.edu/extremist-forums-provide-digital-opsec-training/), by Aaron Brantly & Muhammad al-Ubaydi.
 * [Some elements of Intelligence work](https://grugq.github.io/resources/some_elements_of_intelligence_work-dulles.txt), by [@grugq](https://github.com/grugq).
 * [Twitter Activist Security](https://medium.com/@thegrugq/twitter-activist-security-7c806bae9cb0), by [@grugq](https://github.com/grugq).
 * [How to Vanish](http://www.howtovanish.com/new-to-how-to-vanish-start-here/)
