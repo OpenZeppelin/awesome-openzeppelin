@@ -306,7 +306,7 @@ Talk about this topic with [Demi](https://twitter.com/demibrener).
 ## OPSEC
 Talk about this topic with [@maraoz](https://github.com/maraoz)
 
-* [Operations Security](https://en.wikipedia.org/wiki/Operations_security), by Wikipedia.
+* [Operations Security](https://en.wikipedia.org/wiki/Operations_security), from Wikipedia.
 * [A modest privacy protection proposal](https://medium.com/s/story/a-modest-privacy-protection-proposal-5b47631d7f4c), by Jameson Lopp.
 * [Ignorance is strength](https://grugq.github.io/blog/2013/06/13/ignorance-is-strength/), by [@grugq](https://github.com/grugq).
 * [Operational security and the real world](https://medium.com/@thegrugq/operational-security-and-the-real-world-3c07e7eeb2e8), by [@grugq](https://github.com/grugq).
