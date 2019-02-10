@@ -111,6 +111,10 @@ Talk about this topic with [Alejo Salles](https://github.com/fiiiu).
 
 ## [Cryptography](https://en.wikipedia.org/wiki/Cryptography)
 
+### Posts
+* [How Not to Use ECDSA](https://yondon.blog/2019/01/01/how-not-to-use-ecdsa/), by Yondon Fu.
+* [Bitcoin Transaction Malleability](https://eklitzke.org/bitcoin-transaction-malleability), by Evan Klitzke.
+
 ### Courses
 
 * [Cryptography I](https://www.coursera.org/learn/crypto), by Dan Boneh.
