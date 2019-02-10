@@ -312,6 +312,7 @@ Talk about this topic with [@maraoz](https://github.com/maraoz)
 
 * [Operations Security](https://en.wikipedia.org/wiki/Operations_security), from Wikipedia.
 * [A modest privacy protection proposal](https://medium.com/s/story/a-modest-privacy-protection-proposal-5b47631d7f4c), by Jameson Lopp.
+* [Minimum Viable Security](https://medium.com/@masonic_tweets/minimum-viable-security-32e61d10aee4), by [masonic_tweets](https://www.twitter.com/masonic_tweets)
 * [Ignorance is strength](https://grugq.github.io/blog/2013/06/13/ignorance-is-strength/), by [@grugq](https://github.com/grugq).
 * [Operational security and the real world](https://medium.com/@thegrugq/operational-security-and-the-real-world-3c07e7eeb2e8), by [@grugq](https://github.com/grugq).
 * [New York's Finest OPSEC](https://grugq.github.io/blog/2014/02/13/new-yorks-finest-opsec/), by [@grugq](https://github.com/grugq).
