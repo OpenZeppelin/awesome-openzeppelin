@@ -217,6 +217,7 @@ Talk about this topic with [Demi](https://twitter.com/demibrener).
 
 ### Books
 
+* [The Manager's Path](https://www.goodreads.com/book/show/34616805-the-manager-s-path), by Camille Fournier.
 * [The Sovereign Individual](https://www.goodreads.com/book/show/82256.The_Sovereign_Individual), by  James Dale Davidson and William Rees-Mogg.
 
 ### Talks
