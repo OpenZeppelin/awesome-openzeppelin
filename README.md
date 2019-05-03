@@ -151,6 +151,10 @@ Talk about this topic with [Alejo Salles](https://github.com/fiiiu).
 
 * [Interaction Design Specialization](https://www.coursera.org/specializations/interaction-design), by Scott Klemmer, Elizabeth Gerber and Jacob O. Wobbrock.
 
+### Posts
+
+* [Designing Welcome Mats to Invite User Privacy](https://www.eff.org/deeplinks/2019/02/designing-welcome-mats-invite-user-privacy-0), by Alexis Hancock.
+
 ## Diversity
 
 ### Courses
