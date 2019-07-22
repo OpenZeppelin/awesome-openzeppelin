@@ -1,16 +1,16 @@
-# awesome-zeppelin
+# awesome-openzeppelin
 
 [![Awesome](https://awesome.re/badge.svg)](https://awesome.re)
 [![standard-readme compliant](https://img.shields.io/badge/readme%20style-standard-brightgreen.svg)](https://github.com/RichardLitt/standard-readme)
 
-> Blockchain educational resources curated by the Zeppelin team.
+> Blockchain educational resources curated by the OpenZeppelin team.
 
-[Zeppelin](https://zeppelin.solutions) builds key infrastructure to develop and operate smart contract systems. We work on:
-* [OpenZeppelin](https://openzeppelin.org/): a package for secure smart contract development. 
-* [ZeppelinOS](https://zeppelinos.org/): a platform to develop, deploy and operate smart contract projects on Ethereum and every other EVM and eWASM-powered blockchain.
-* [Audits](https://zeppelin.solutions/security-audits/): verification of key projects for the decentralized ecosystem.
+[OpenZeppelin](https://openzeppelin.com) builds key infrastructure to develop and operate smart contract systems. We work on:
+* [OpenZeppelin Contracts](https://openzeppelin.com/contracts): a package for secure smart contract development. 
+* [OpenZeppelin SDK](https://openzeppelin.com/sdk): a platform to develop, deploy and operate smart contract projects on Ethereum and every other EVM and eWASM-powered blockchain.
+* [Audits](https://openzeppelin.com/security-audits/): verification of key projects for the decentralized ecosystem.
 
-This repository contains links to resources that have been important parts of our learnings and that influence how we work on our projects. If you want to join the Zeppelin team, [we are hiring!](https://zeppelin.solutions/jobs/).
+This repository contains links to resources that have been important parts of our learnings and that influence how we work on our projects. If you want to join the OpenZeppelin team, [we are hiring!](https://openzeppelin.com/jobs/).
 
 ## Table of Contents
 
@@ -187,7 +187,7 @@ Talk about this topic with [Alejo Salles](https://github.com/fiiiu).
 
 * [Decentralised Oracles: a comprehensive overview](https://medium.com/fabric-ventures/decentralised-oracles-a-comprehensive-overview-d3168b9a8841), by Julien Thevenard.
 
-* [Ethereum in Depth series](https://blog.zeppelin.solutions/ethereum-in-depth-part-1-968981e6f833), by Zeppelin.
+* [Ethereum in Depth series](https://blog.openzeppelin.com/ethereum-in-depth-part-1-968981e6f833), by OpenZeppelin.
 
 * [Making Sense of Ethereum’s Layer 2 Scaling Solutions: State Channels, Plasma, and Truebit](https://medium.com/l4-media/making-sense-of-ethereums-layer-2-scaling-solutions-state-channels-plasma-and-truebit-22cb40dcc2f4), by Josh Stark.
 
@@ -262,7 +262,7 @@ Talk about this topic with [Demi](https://twitter.com/demibrener).
 
 #### Challenges / CTF
 
-* **[Ethernaut](https://ethernaut.zeppelin.solutions/), by Zeppelin**.
+* **[Ethernaut](https://ethernaut.openzeppelin.com/), by OpenZeppelin**.
 
 * [Blockchain CTF](https://blockchain-ctf.securityinnovation.com), by Security Innovation.
 
@@ -270,11 +270,11 @@ Talk about this topic with [Demi](https://twitter.com/demibrener).
 
 #### Posts
 
-* **[Deconstructing a Solidity contract series](https://blog.zeppelin.solutions/deconstructing-a-solidity-contract-part-i-introduction-832efd2d7737), by Alejandro Santander from the Zeppelin team**.
+* **[Deconstructing a Solidity contract series](https://blog.openzeppelin.com/deconstructing-a-solidity-contract-part-i-introduction-832efd2d7737), by Alejandro Santander from the OpenZeppelin team**.
 
 #### Smart contract security
 
-* **[Zeppelin audits reports](https://blog.zeppelin.solutions/tagged/security), by Zeppelin**.
+* **[OpenZeppelin audits reports](https://blog.openzeppelin.com/security-audits), by OpenZeppelin**.
 
 * [Smart Contract Security bibliography](https://consensys.github.io/smart-contract-best-practices/bibliography/), by Consensys.
 
@@ -313,7 +313,6 @@ Talk about this topic with [Demi](https://twitter.com/demibrener).
 * [Reflections on Trusting Trust](https://www.archive.ece.cmu.edu/~ganger/712.fall02/papers/p761-thompson.pdf), by Ken Thompson.
 
 ## OPSEC
-Talk about this topic with [@maraoz](https://github.com/maraoz)
 
 * [Operations Security](https://en.wikipedia.org/wiki/Operations_security), from Wikipedia.
 * [A modest privacy protection proposal](https://medium.com/s/story/a-modest-privacy-protection-proposal-5b47631d7f4c), by Jameson Lopp.
@@ -454,10 +453,10 @@ Talk about this topic with [elopio](https://github.com/elopio).
 
 ## Contributing
 
-[Share your awesome links with us!](https://github.com/ZeppelinSolutions/awesome-zeppelin/issues/new)
+[Share your awesome links with us!](https://github.com/OpenZeppelin/awesome-openzeppelin/issues/new)
 
 ## License
 
 [![CC0](http://mirrors.creativecommons.org/presskit/buttons/88x31/svg/cc-zero.svg)](https://creativecommons.org/publicdomain/zero/1.0/)
 
-To the extent possible under law, [Zeppelin](https://zeppelin.solutions) has waived all copyright and related or neighboring rights to this work.
+To the extent possible under law, [OpenZeppelin](https://openzeppelin.com) has waived all copyright and related or neighboring rights to this work.
