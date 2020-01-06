@@ -370,18 +370,11 @@ Talk about this topic with [Demi](https://twitter.com/demibrener).
 ### Private Browsing
 
 * [Tor](https://www.torproject.org/)
+  * You can use [Brave Browser](https://brave.com/) to open a private window with Tor
   * With Tor, you can browse dark web sites like:
-    * http://scihub22266oqcxt.onion/
-    * https://www.propub3r6espa33w.onion/
-    * http://owmx2uvjkmdgsap2.onion/
-    * http://zqktlwi4fecvo6ri.onion/wiki/index.php/Main_Page
-  * Darknet markets
-    * http://wallst4qihu6lvsa.onion/signup?ref=276
-    * http://uhivlt5grrqjhad7.onion/?ai=1675
+    * Hidden Wiki: http://zqktlwiuavvvqqt4ybvgvi7tyo4hjl5xgfuvpdf6otjiycgwqbym2qad.onion
   * Some deep web forums
-    * http://dreadditevelidot.onion
-    * http://avengersdutyk3xf.onion
-    * http://thehub7xbw4dc5r2.onion
+    * Dread forum: http://dreadditevelidot.onion
 
 ### Privacy-related useful services
 
