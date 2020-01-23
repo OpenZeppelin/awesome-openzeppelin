@@ -59,7 +59,7 @@ Talk about this topic with [Alejo Salles](https://github.com/fiiiu).
 
 ### Books
 
-* [Cryptoassets](https://www.bitcoinandbeyond.com/), by Chris Burniske and Jack Tatar: Good, basic book with a broad view of the crypto world addressed to investors new to the space.
+* [Cryptoassets](https://www.goodreads.com/en/book/show/36197082-cryptoassets), by Chris Burniske and Jack Tatar: Good, basic book with a broad view of the crypto world addressed to investors new to the space.
 
 * [Governing the Commons: The Evolution of Institutions for Collective Action](https://www.goodreads.com/book/show/1048424.Governing_the_Commons), by Elinor Ostrom.
 
