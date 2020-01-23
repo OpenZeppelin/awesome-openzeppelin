@@ -337,19 +337,14 @@ Talk about this topic with [Demi](https://twitter.com/demibrener).
 * [Managing pseudonyms better than DPR](https://b3rn3d.herokuapp.com/blog/2014/01/08/managing-pseudonyms/), by [B3RN3D](https://b3rn3d.herokuapp.com/).
 * [Did you ask him about his Threat Model?](https://b3rn3d.herokuapp.com/blog/2014/01/10/ask-him-about-his-threat-model/), by [B3RN3D](https://b3rn3d.herokuapp.com/).
 * [OPSEC Required Reading section](https://grugq.github.io/blog/2013/11/06/required-reading/), by [@grugq](https://github.com/grugq).
-* [More OPSEC Resources](https://grugq.github.io/resources/), by [@grugq](https://github.com/grugq).
 
-### Intelligence agencies/government info
+### Intelligence
 
-* [Intelligence Careers](https://www.intelligencecareers.gov/iccareers.html#career2), by the United States Intelligence Community.
-* [Intelligence Community website](https://www.intelligence.gov/)
 * [Intelligence Literature: suggested reading list](https://www.cia.gov/library/intelligence-literature/), by the United State's CIA.
 
 ### Spycraft
 
 * [CIA Operative teaches Spycraft and psychology](https://b3rn3d.herokuapp.com/blog/2014/03/09/irl-spycraft/), by [B3RN3D](https://b3rn3d.herokuapp.com/).
-* [Q&A: Lindsay Moran — A former CIA agent talks Spycraft](http://pursuitmag.com/lindsay-moran-former-cia-agent-talks-spycraft/), by Pursuit Magazine.
-* [Q&A: Lindsay Moran — A former CIA operative reveals why she became a spy](http://pursuitmag.com/lindsay-moran-former-cia-operative-why-became-spy/), by Pursuit Magazine.
 
 ### Cryptocurrency related
 
@@ -358,14 +353,6 @@ Talk about this topic with [Demi](https://twitter.com/demibrener).
 ### For developers
 
 * [Defeating Forensic Analysis on Unix](https://grugq.github.io/docs/phrack-59-06.txt), by [@grugq](https://github.com/grugq).
-
-### Device hiding with virtualization
-
-* Virtualization with VMware Workstation Player
-  1. Install https://www.vmware.com/products/workstation-player.html
-  2. Get licence keys: https://appnee.com/vmware-workstation-pro-universal-license-keys-collection/
-  3. Download preferred OS: [Ubuntu](https://www.ubuntu.com/download/desktop) or [Windows](https://www.microsoft.com/en-us/software-download/windows8)
-  4. Create virtual machine and install the downloaded image.
 
 ### Private Browsing
 
@@ -387,29 +374,6 @@ Talk about this topic with [Demi](https://twitter.com/demibrener).
   * [Thatoneprivacysite's email comparison](https://thatoneprivacysite.net/email-section/)
 * Virtual Private Networks
   * [Thatoneprivacysite's VPN comparison](https://thatoneprivacysite.net/vpn-section/)
-
-### Other disciplines & projects to research
-
-* Counterintelligence (OPSEC is a subset of CI)
-* INFOSEC
-* APPSEC
-* NETSEC
-* COMSEC
-* PHYSEC
-
-Projects to research: 
-
-* Tor
-* Tails
-* DuckDuckGo
-* StartPage
-* PhotoMe Beta
-* ExifTool
-* MetaNull
-* Jitsi
-* JustPasteIt
-* Silent Circle
-* and several others from the Guardian Project
 
 ## Software Development
 
