@@ -6,8 +6,8 @@
 > Blockchain educational resources curated by the OpenZeppelin team.
 
 [OpenZeppelin](https://openzeppelin.com) builds key infrastructure to develop and operate smart contract systems. We work on:
-* [OpenZeppelin Contracts](https://openzeppelin.com/contracts): a package for secure smart contract development. 
-* [OpenZeppelin SDK](https://openzeppelin.com/sdk): a platform to develop, deploy and operate smart contract projects on Ethereum and every other EVM and eWASM-powered blockchain.
+* [OpenZeppelin Contracts](https://openzeppelin.com/contracts/): a package for secure smart contract development. 
+* [OpenZeppelin SDK](https://openzeppelin.com/sdk/): a platform to develop, deploy and operate smart contract projects on Ethereum and every other EVM and eWASM-powered blockchain.
 * [Audits](https://openzeppelin.com/security-audits/): verification of key projects for the decentralized ecosystem.
 
 This repository contains links to resources that have been important parts of our learnings and that influence how we work on our projects. If you want to join the OpenZeppelin team, [we are hiring!](https://openzeppelin.com/jobs/).
@@ -43,17 +43,17 @@ This repository contains links to resources that have been important parts of ou
 
 ### Courses
 
-* [Introduction to Digital Currencies](https://digitalcurrency.unic.ac.cy/free-introductory-mooc/), by Andreas Antonopoulos and Antonis Polemitis.
+* [Introduction to Digital Currencies](https://www.unic.ac.cy/blockchain/free-mooc/), by Andreas Antonopoulos and Antonis Polemitis.
 
-## [Community Management](https://en.wikipedia.org/wiki/Community_Management)
+## [Community Management](https://en.wikipedia.org/wiki/Community_management)
 
 Talk about this topic with [elopio](https://github.com/elopio).
 
 ### Books
 
-* [The Art of Community](http://www.artofcommunityonline.org/), by Jono Bacon.
+* [The Art of Community](https://www.jonobacon.com/books/artofcommunity/), by Jono Bacon.
 
-## [Cryptoeconomics](https://en.wikipedia.org/wiki/Cryptoeconomics)
+## [Cryptoeconomics](https://en.wikipedia.org/wiki/Cryptocurrency)
 
 Talk about this topic with [Alejo Salles](https://github.com/fiiiu).
 
@@ -107,7 +107,7 @@ Talk about this topic with [Alejo Salles](https://github.com/fiiiu).
 
 * [Livepeer Whitepaper](https://github.com/livepeer/wiki/blob/master/WHITEPAPER.md), by Doug Petkanics and Eric Tang: Details the cryptoeconomics of the Livepeer protocol, users pay, either for broadcasting or consuming. Transcoders are chosen through DPoS.
 
-* [Panvala](https://www.panvala.com/panvala-whitepaper.pdf): Introduces a system of token-mediated auditing. “Token Capacitor” is a cryptoeconomic primitive that progressively releases tokens, which can be directed to different destinations by the token holders; and “Michelin stars” are used for code safety.
+* [Panvala](https://panvala.com/static/Panvala%20Whitepaper%20\(September%2016\)-0ea0fcc198557c2b568112ddd66f9341.pdf): Introduces a system of token-mediated auditing. “Token Capacitor” is a cryptoeconomic primitive that progressively releases tokens, which can be directed to different destinations by the token holders; and “Michelin stars” are used for code safety.
 
 ## [Cryptography](https://en.wikipedia.org/wiki/Cryptography)
 
@@ -131,7 +131,7 @@ Talk about this topic with [Alejo Salles](https://github.com/fiiiu).
 
 * [Free Software, Free Society](https://www.gnu.org/philosophy/fsfs/rms-essays.pdf), by Richard Stallman.
 
-* [Proposed Roads to Freedom](http://www.gutenberg.org/ebooks/690), by Bertrand Russell.
+* [Proposed Roads to Freedom](https://www.gutenberg.org/ebooks/690), by Bertrand Russell.
 
 ### Talks
 
@@ -163,7 +163,7 @@ Talk about this topic with [Alejo Salles](https://github.com/fiiiu).
 
 ### Posts
 
-* [How Duolingo achieved a 50:50 gender ratio for new software engineer hires](http://making.duolingo.com/how-duolingo-achieved-a-5050-gender-ratio-for-new-software-engineer-hires), by Jeesoo Sohn.
+* [How Duolingo achieved a 50:50 gender ratio for new software engineer hires](https://blog.duolingo.com/how-duolingo-achieved-a-5050-gender-ratio-for-new-software-engineer-hires/), by Jeesoo Sohn.
 
 * [How I work with someone who is learning](https://blog.mapbox.com/how-i-work-with-someone-who-is-learning-d6c53e460625), by Emily McAfee.
 
@@ -179,7 +179,7 @@ Talk about this topic with [Alejo Salles](https://github.com/fiiiu).
 
 ### Books
 
-* [Mastering Ethereum](https://github.com/ethereumbook/ethereumbook), by Andreas Antonopoulos (in progress).
+* [Mastering Ethereum](https://github.com/ethereumbook/ethereumbook), by Andreas Antonopoulos.
 
 ### Posts
 
@@ -205,9 +205,9 @@ Talk about this topic with [Alejo Salles](https://github.com/fiiiu).
 
 * Intellectual Property Law and Policy, by R. Polk Wagner:
 
-  * [Part 1](https://www.edx.org/course/intellectual-property-law-policy-part-1-pennx-iplaw1x-0).
+  * [Part 1](https://www.edx.org/course/intellectual-property-law-and-policy-part-1).
 
-  * [Part 2](https://www.edx.org/course/intellectual-property-law-policy-part-2-pennx-iplaw2x-0).
+  * [Part 2](https://www.edx.org/course/intellectual-property-law-and-policy-part-2).
 
 ## Linux
 
@@ -222,6 +222,7 @@ Talk about this topic with [Demi](https://twitter.com/demibrener).
 ### Books
 
 * [The Manager's Path](https://www.goodreads.com/book/show/34616805-the-manager-s-path), by Camille Fournier.
+
 * [The Sovereign Individual](https://www.goodreads.com/book/show/82256.The_Sovereign_Individual), by  James Dale Davidson and William Rees-Mogg.
 
 ### Talks
@@ -242,7 +243,7 @@ Talk about this topic with [Demi](https://twitter.com/demibrener).
 
 #### Books
 
-* [JavaScript: The Good Parts](http://shop.oreilly.com/product/9780596517748.do), by Douglas Crockford.
+* [JavaScript: The Good Parts](https://www.oreilly.com/library/view/javascript-the-good/9780596517748/), by Douglas Crockford.
 
 ### Python
 
@@ -274,11 +275,11 @@ Talk about this topic with [Demi](https://twitter.com/demibrener).
 
 #### Smart contract security
 
-* **[OpenZeppelin audits reports](https://blog.openzeppelin.com/security-audits), by OpenZeppelin**.
+* **[OpenZeppelin audits reports](https://blog.openzeppelin.com/security-audits/), by OpenZeppelin**.
 
-* [Smart Contract Security bibliography](https://consensys.github.io/smart-contract-best-practices/bibliography/), by Consensys.
+* [Smart Contract Security Known Attacks](https://consensys.github.io/smart-contract-best-practices/known_attacks/), by Consensys.
 
-* [Smart Contract Weakness Classification Registry](https://smartcontractsecurity.github.io/SWC-registry/), maintained by the [Mythril](https://mythril.ai/) team.
+* [Smart Contract Weakness Classification Registry](https://swcregistry.io/), maintained by the [MythX](https://mythx.io/) team.
 
 * [List of known attack vectors and common anti-patterns in smart contracts](https://github.com/sigp/solidity-security-blog), by AgeManning.
 
@@ -290,13 +291,13 @@ Talk about this topic with [Demi](https://twitter.com/demibrener).
 
 #### Courses
 
-* [Understanding TypeScript](https://www.udemy.com/understanding-typescript/), by Maximilian Schwarzmüller.
+* [Understanding TypeScript](https://www.udemy.com/course/understanding-typescript/), by Maximilian Schwarzmüller.
 
 ## Remote
 
 ### Posts
 
-* [The presence prison](https://m.signalvnoise.com/the-presence-prison-4c776292c8d2), by Jason Fried.
+* [The presence prison](https://m.signalvnoise.com/the-presence-prison/), by Jason Fried.
 
 * [Don't work "remotely"](http://blairreeves.me/2018/11/09/dont-work-remotely/), by Blair Reeves.
 
@@ -310,12 +311,12 @@ Talk about this topic with [Demi](https://twitter.com/demibrener).
 
 ### Talks
 
-* [Reflections on Trusting Trust](https://www.archive.ece.cmu.edu/~ganger/712.fall02/papers/p761-thompson.pdf), by Ken Thompson.
+* [Reflections on Trusting Trust](https://users.ece.cmu.edu/~ganger/712.fall02/papers/p761-thompson.pdf), by Ken Thompson.
 
 ## OPSEC
 
 * [Operations Security](https://en.wikipedia.org/wiki/Operations_security), from Wikipedia.
-* [A modest privacy protection proposal](https://medium.com/s/story/a-modest-privacy-protection-proposal-5b47631d7f4c), by Jameson Lopp.
+* [A modest privacy protection proposal](https://blog.lopp.net/modest-privacy-protection-proposal/), by Jameson Lopp.
 * [Ignorance is strength](https://grugq.github.io/blog/2013/06/13/ignorance-is-strength/), by [@grugq](https://github.com/grugq).
 * [Operational security and the real world](https://medium.com/@thegrugq/operational-security-and-the-real-world-3c07e7eeb2e8), by [@grugq](https://github.com/grugq).
 * [New York's Finest OPSEC](https://grugq.github.io/blog/2014/02/13/new-yorks-finest-opsec/), by [@grugq](https://github.com/grugq).
@@ -328,7 +329,7 @@ Talk about this topic with [Demi](https://twitter.com/demibrener).
 * [Extremist Forums Provide Digital OpSec Training](https://ctc.usma.edu/extremist-forums-provide-digital-opsec-training/), by Aaron Brantly & Muhammad al-Ubaydi.
 * [Some elements of Intelligence work](https://grugq.github.io/resources/some_elements_of_intelligence_work-dulles.txt), by [@grugq](https://github.com/grugq).
 * [Twitter Activist Security](https://medium.com/@thegrugq/twitter-activist-security-7c806bae9cb0), by [@grugq](https://github.com/grugq).
-* [How to Vanish](http://www.howtovanish.com/new-to-how-to-vanish-start-here/)
+* [How to Vanish](https://www.howtovanish.com/new-to-how-to-vanish-start-here/)
 * [Agent Handling](https://en.wikipedia.org/wiki/Agent_handling), from Wikipedia.
 * [Online Privacy Through OPSEC and Compartmentalization: Part 2](https://www.ivpn.net/privacy-guides/online-privacy-through-opsec-and-compartmentalization-part-2)
 * [It Was DPR, in the Tor HS, with the BTC](https://grugq.github.io/blog/2013/10/09/it-was-dpr/), by [@grugq](https://github.com/grugq).
@@ -373,7 +374,7 @@ Talk about this topic with [Demi](https://twitter.com/demibrener).
   * [ProtonMail](https://protonmail.com/)
   * [Thatoneprivacysite's email comparison](https://thatoneprivacysite.net/email-section/)
 * Virtual Private Networks
-  * [Thatoneprivacysite's VPN comparison](https://thatoneprivacysite.net/vpn-section/)
+  * [Thatoneprivacysite's VPN comparison](https://thatoneprivacysite.net/)
 
 ## Software Development
 
@@ -414,6 +415,6 @@ Talk about this topic with [elopio](https://github.com/elopio).
 
 ## License
 
-[![CC0](http://mirrors.creativecommons.org/presskit/buttons/88x31/svg/cc-zero.svg)](https://creativecommons.org/publicdomain/zero/1.0/)
+[![CC0](https://mirrors.creativecommons.org/presskit/buttons/88x31/svg/cc-zero.svg)](https://creativecommons.org/publicdomain/zero/1.0/)
 
 To the extent possible under law, [OpenZeppelin](https://openzeppelin.com) has waived all copyright and related or neighboring rights to this work.
