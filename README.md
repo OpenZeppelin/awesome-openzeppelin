@@ -10,7 +10,7 @@
 * [OpenZeppelin SDK](https://openzeppelin.com/sdk): a platform to develop, deploy and operate smart contract projects on Ethereum and every other EVM and eWASM-powered blockchain.
 * [Audits](https://openzeppelin.com/security-audits/): verification of key projects for the decentralized ecosystem.
 
-This repository contains links to resources that have been important parts of our learnings and that influence how we work on our projects. If you want to join the OpenZeppelin team, [we are hiring!](https://openzeppelin.com/jobs/).
+This repository contains links to resources that have been important parts of our learnings and that influence how we work on our projects. If you want to join the OpenZeppelin team, [we are hiring!](https://grnh.se/f0e8f9db3us).
 
 ## Table of Contents
 
