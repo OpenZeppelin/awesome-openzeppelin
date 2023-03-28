@@ -43,7 +43,7 @@ This repository contains links to resources that have been important parts of ou
 
 ### Courses
 
-* [Introduction to Digital Currencies](https://digitalcurrency.unic.ac.cy/free-introductory-mooc/), by Andreas Antonopoulos and Antonis Polemitis.
+* [Introduction to Digital Currencies](https://www.youtube.com/playlist?list=PL68lGg7SjGZCfaCmsW0fBAJufcMgT8taZ), by Andreas Antonopoulos and Antonis Polemitis.
 
 ## [Community Management](https://en.wikipedia.org/wiki/Community_Management)
 
