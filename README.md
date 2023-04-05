@@ -276,7 +276,7 @@ Talk about this topic with [Demi](https://twitter.com/demibrener).
 
 * **[OpenZeppelin audits reports](https://blog.openzeppelin.com/security-audits), by OpenZeppelin**.
 
-* [Smart Contract Security bibliography](https://consensys.github.io/smart-contract-best-practices/bibliography/), by Consensys.
+* [Smart Contract Security bibliography](https://consensys.github.io/smart-contract-best-practices/), by Consensys.
 
 * [Smart Contract Weakness Classification Registry](https://smartcontractsecurity.github.io/SWC-registry/), maintained by the [Mythril](https://mythril.ai/) team.
 
